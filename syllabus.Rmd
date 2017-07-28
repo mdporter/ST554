@@ -1,0 +1,181 @@
+<ul class="navibar">
+  <li><a href="./index.html" class="navibar" >Schedule</a></li>
+  <li><a href="./syllabus.html" class="current" >Syllabus</a></li>
+  <li><a href="./homework.html" class="navibar" >Homework</a></li>
+</ul>
+
+
+<!--- Table Formatting Modifications --->
+<style>
+.table {
+  width: 35%;
+  margin-left: 0%;
+  border: 1px solid lightgray;
+  font-size : 78%;
+}
+th {   
+  background-color: #dcdcdc;
+}
+td {
+  background-color: white;
+}
+</style>
+
+
+
+<!--- Start Main Page --->
+ <br><br>
+
+### Course Info
+
+ST 597                    |                |
+------------------------- | --------------- 
+**Class Time:**           | T,Th 2:00pm-3:15pm  
+**Class Location:**       | Bidgood 217    
+
+**Instructor:**     | Dr\. Michael D. Porter  
+------------------------- | --------------- 
+**Office:**         | 348 Alston Hall
+**Email:**          | mporter {at} cba.ua.edu    
+**Office Hours:**   | <font color="red"> TBD (and by appt.)  </font>
+
+**TA:**                   |  TBD
+------------------------- | --------------- 
+**Office:**               | Bidgood Hall TBD
+**Email:**                | <font color="red"> TBD  {at} crimson.ua.edu </font>
+**Office Hours:**         | <font color="red"> TBD; Fri TBD (and by appt.)     </font>   
+
+
+
+----
+
+### Course Prerequisites:
+Students taking this course should have a working knowledge of calculus. This includes, but is not limited to: partial derivatives, chain and product rules, stationary points, multiple integration, integration by parts, change of variables, polar coordinates, limits, infinite series. The official UA requirements are MA 125, 126, and 227 (Calculus I, II, III). 
+
+
+
+
+----
+
+### Course Description:
+
+This is the first course in the Mathematical Statistics sequence. The focus is on the probability concepts that will be most useful for Statistics. The content will emphasize random variables, probability distributions, moments, transformations, and limit theorems. 
+
+
+----
+
+### Student Learning Objectives:
+Students completing this course should be able to understand and work with randomness and uncertainty through probability models, random variables and their distributions, and conditional concepts. 
+
+
+----
+
+### Required Textbook:
+- *Introduction to Probability* by Blitzstein and Hwang
+
+Recommended Resources (optional):   
+
+- The textbook has a website with useful info (including video lectures): <http://projects.iq.harvard.edu/stat110>   
+- *Introduction to Mathematical Statistics* by Hogg, McKean, and Craig  
+- *Statistical Inference* by Casella and Berger  
+- *All of Statistics* by Wasserman
+- *The Essentials of Probability* by Durrett
+
+
+----
+
+### Software:
+
+Simulation can be a great tool for helping to understand some of the concepts covered in the course. I recommend R for this task. While not a requirement (no quiz or exam questions will cover coding or computation), I will give several examples of using R in class and will post the relevant R code on the course website.       
+
+- R (<http://cran.us.r-project.org>) is a free command-line based statistical language.
+- RStudio is a free IDE for R (<http://www.rstudio.com/ide>).
+
+Both of these programs are free and cross-platform (Windows, Mac, Linux). Install R first, then RStudio. Use the latest versions of each. There are several good introductory courses for learning R basics:  
+
+- [Try R  ](http://tryr.codeschool.com/)
+- [DataCamp  ](https://www.datacamp.com/courses/free-introduction-to-r)
+- [R Basics](https://www.udemy.com/r-basics/)
+- [Swirl](http://swirlstats.com/)
+
+
+
+----
+
+### Course Assessment:
+
+- **Quizzes: 20%**
+    - 9 quizzes based on (uncollected) homework assignments
+    - Usually given on Tuesdays at beginning of class (see [schedule](index.html) for exact dates)
+    - Lowest two scores dropped
+
+- **Exam 1: 25%**
+    - Thursday Sep 28  
+
+- **Exam 2: 25%**
+    - Thursday Nov 16
+
+- **Final Exam: 30%**
+    - Thursday Dec 14 (8am - 10:30am)
+    - Cumulative
+
+
+There will be no grade \"curving\" in this course. However, you will have the option to let the final exam grade replace your lowest midterm exam grade. In addition, the lowest two quiz scores will be dropped. Because of this policy, there will be no make-up quizzes or exams! Attendance is expected. 
+
+A: [90-100]\%, B: [80-90)\%, C: [70-80)\%, D: [60-70)\%, F: <60\%
+
+-----
+
+### Course Outline: 
+
+- Probability
+    - Sets and Counting
+    - Axioms of Probability
+    - Conditional Probability
+    
+- Random Variables (RV)
+    - Discrete RVs
+    - Expectation
+    - Continuous RVs
+    - Moments and MGFs
+
+- Multiple RVs
+    - Joint Distributions
+    - Transformations
+    - Conditional Expectation
+
+<!--- - Inequalities  --->
+- Limit Theorems
+
+
+----
+
+### Academic Calendar:
+Important dates for the semester can be found on the academic calendar: 
+<http://registrar.ua.edu/academiccalendar/>
+
+----
+
+### Severe Weather Guidelines:
+<http://uanews.ua.edu/weather>
+
+----
+
+### Disability Statement:
+If you are registered with the Office of Disability Services, please make an appointment with me as soon as possible to discuss any course accommodations that may be necessary.
+If you have a disability, but have not contacted the Office of Disability Services, please call (205) 348-4285 (Voice) or (205) 348-3081 (TTY) or visit 1000 Houser Hall to register for services. Students who may need course adaptations because of a disability are welcome to make an appointment to see me during office hours. Students with disabilities must be registered with the Office of Disability Services, 1000 Houser Hall, before receiving academic adjustments.
+
+
+----
+
+### Policy on Academic Misconduct:
+All students in attendance at The University of Alabama are expected to be honorable and to observe standards of conduct appropriate to a community of scholars. The University of Alabama expects from its students a higher standard of conduct than the minimum required to avoid discipline. At the beginning of each semester and on examinations and projects, the professor may require each student to sign the Academic Honor Pledge. 
+See the [Code of Student Conduct](http://policies.ua.edu/conduct.html) for more information.
+
+
+
+
+
+
+
+

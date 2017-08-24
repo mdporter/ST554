@@ -28,7 +28,7 @@ td {
 
 ### Course Info
 
-ST 597                    |                
+ST 554                    |                
 ------------------------- | --------------- 
 **Class Time:**           | T,Th 2:00pm-3:15pm  
 **Class Location:**       | Bidgood 217    

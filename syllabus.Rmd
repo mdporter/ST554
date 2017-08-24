@@ -37,14 +37,34 @@ ST 597                    |                |
 ------------------------- | --------------- 
 **Office:**         | 348 Alston Hall
 **Email:**          | mporter {at} cba.ua.edu    
-**Office Hours:**   | <font color="red"> TBD (and by appt.)  </font>
+**Office Hours:**   | Tues 9:00-10:00a (and by appt.)  
 
-**TA:**                   |  TBD
-------------------------- | --------------- 
-**Office:**               | Bidgood Hall TBD
-**Email:**                | <font color="red"> TBD  {at} crimson.ua.edu </font>
-**Office Hours:**         | <font color="red"> TBD; Fri TBD (and by appt.)     </font>   
+**TA:**                   |  Yingying Zhang
+------------------------- | ------------------------------- 
+**Office:**               | Bidgood Hall 319
+**Email:**                | yzhang290 {at} crimson.ua.edu 
+**Office Hours:**         | Monday 3:30-5:00  
+&nbsp;										| Fridays 2:00-3:15p   
+&nbsp;						  			| and by appointment 
+													
 
+
+<!-- 
+TA office hours (5 hrs)
+- Fri: (1.5) for recitation like 
+- Mon: 3:30 - 5:00 hw questions
+- Tue: 11:00 - 12:00  hw last minute    
+- appt (1)
+
+TA homework: (2 hrs)
+- enter hw solutions into latex (or Rmarkdown)
+- create hw answers document
+
+TA grade quizzes (3 hrs)
+- grade weekly quizzes
+- pre-grade exams
+
+-->
 
 
 ----

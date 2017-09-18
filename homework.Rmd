@@ -25,8 +25,8 @@
 ### [Homework \#3](homework/hw3.pdf)
 > Due: Tues Sept 19 
 
-### Homework \#4  
-<!-- ### [Homework \#4](homework/hw4.pdf) -->
+<!-- ### Homework \#4   -->
+### [Homework \#4](homework/hw4.pdf)
 > Due: Tues Sept 26
 
 ### Homework \#5

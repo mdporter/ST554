@@ -37,7 +37,7 @@ Class Date      Day  Topic                      Reading (Pre-Class)     Notes fr
 
   8    Sept 19  Tue  Expectation I              4.1-4.4; 4.11            **Quiz 3**
 
-  9    Sept 21  Thu  Expectation II             4.5-4.8; 4.10-4.11       [Chapter 4 Extra Notes](other/L-04-extra.pdf)
+  9    Sept 21  Thu  Expectation II             4.5-4.8; 4.10-4.11       [Chapter 4 Extra Notes ](other/L-04-extra.pdf)
 
   10   Sept 26  Tue  Review for Exam 1          1, 2, 3, 4               **Quiz 4**
 

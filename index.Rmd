@@ -57,13 +57,13 @@ Class Date      Day  Topic                      Reading (Pre-Class)     Notes fr
 
   14   Oct 10   Tue   Continuous RV II          5.4-5.6; 5.8-5.9
   
-  15   Oct 12   Thu   Continuous RV III         5.6-5.7; 5.8-5.9
+  15   Oct 12   Thu   Continuous RV III         5.6-5.7; 5.8-5.9         **Quiz 5** 
 
-  16   Oct 17   Tue   Moments                   6.1-6.6; 6.8-6.9        **Quiz 5**  
+  16   Oct 17   Tue   Moments                   6.1-6.6; 6.8-6.9         
   
-  17   Oct 19   Thu   Joint Distributions I     7.1-7.2; 7.7             <!--- [Covariance Facts](lectures/L-07_Covariance.pdf) --->     
+  17   Oct 19   Thu   Joint Distributions I     7.1-7.2; 7.7             **Quiz 6** 
 
-  18   Oct 24   Tue   Joint Distributions II    7.3-7.5; 7.7            **Quiz 6**  
+  18   Oct 24   Tue   Joint Distributions II    7.3-7.5; 7.7              <!--- [Covariance Facts](lectures/L-07_Covariance.pdf) --->     
   
        Oct 26   Thu   <font color="orange">           
                        *No Class: Fall Break* 

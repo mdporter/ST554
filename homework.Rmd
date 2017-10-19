@@ -37,8 +37,8 @@
 ### [Homework \#6](homework/hw6.pdf)
 > Due: Thu Oct 19
 
-### Homework \#7
-<!-- ### [Homework \#7](homework/hw7.pdf) -->
+<!-- ### Homework \#7 -->
+### [Homework \#7](homework/hw7.pdf) 
 > Due: Thu Nov 2 
 
 ### Homework \#8

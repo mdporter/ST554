@@ -103,7 +103,7 @@ Class Date      Day  Topic                      Reading (Pre-Class)     Notes fr
   
   29   Dec 7    Thu  Review for Final Exam                              
   
-       Dec 14   Thu  **Final Exam (8am -                                <!--- [Distributions](other/ST554_distributions.pdf); [Final Handout](other/ST554_final_handout.pdf) --->
+       Dec 14   Thu  **Final Exam (8am -                                
                       10:30am)**
 ------------------------------------------------------------------------------------------------
 
@@ -119,106 +119,5 @@ Class Date      Day  Topic                      Reading (Pre-Class)     Notes fr
 
 
 
-
-<!--- 
-
-------------------------------------------------------------------------------------------------
-Class Date      Day  Topic                      Reading (Pre-Class)     Notes from class
------ -------- ----- -------------------------- ----------------------- -----------------------
-  1    Aug 24   Thu  Intro; Sets and Counting   1.1-1.4                         
-
-  2    Aug 29   Tue  Counting;                  1.4-1.7, 1.8
-                     Naive Prob; Axioms
-
-  3    Aug 31   Tue  Conditional Probability I  2.1-2.5, 2.10            **Quiz 1**
-
-  4    Sept 5   Thu  Conditional Probability II 2.6-2.8, 2.9-2.10        [Radiation Monitoring](lectures/radiationmon.html); [3 Paradoxes Paper](material/3 paradoxes.pdf)
-           
-  5    Sept 7   Thu  Conditional Probability    2.6-2.8, 2.9-2.10        
-                     III
-  
-  [Radiation Monitoring](lectures/radiationmon.html); [3 Paradoxes Paper](material/3 paradoxes.pdf)
-                      
-  6    Sept 12  Tue  Discrete RV I              3.1-3.6                  **Quiz 2**
-
-  7    Sept 14  Thu  Discrete RV II             3.7-3.9; 3.10-3.11
-
-  8    Sept 19  Tue  Expectation I              4.1-4.4; 4.11            **Quiz 3**
-
-  9    Sept 21  Thu  Expectation II             4.5-4.8; 4.10-4.11
-
-  10   Sept 26  Tue  Continuous RV I            5.1-5.2; 5.9             **Quiz 4**
-
-  11   Sept 28  Thu  Continuous RV II           5.3-5.4; 5.8-5.9         [R code](lectures/L-05.R)
-
-  12   Sept 27  Tue  Review                                              **Quiz 5**
-  
-  13   Sept 29  Thu  **Exam 1** (HW 1-5)                                 [Exam Handout](other/distributions.pdf)
-  
-------------------------------------------------------------------------------------------------  
-
-
-#### Part 2  
-  
-------------------------------------------------------------------------------------------------
-Class Date      Day  Topic                      Reading (Pre-Class)     Notes from class
------ -------- ----- -------------------------- ----------------------- -----------------------  
-  14   Oct 4    Tue   Continuous RV III         5.5-5.7; 5.8-5.9
-  
-  15   Oct 6    Thu   Moments                   6.1-6.6; 6.8-6.9
-           
-  16   Oct 11   Tue   Joint Distributions I     7.1-7.3; 7.7             **Quiz 6**  
-  					
-  17   Oct 13   Thu   ~~Joint Distributions     7.4-7.7                  [Covariance Facts](lectures/L-07_Covariance.pdf)
-                      II~~<br>
-                       <font color="orange">      
-                       *No Class: BA Symposium* 
-                       </font>  
-
-  18   Oct 18   Tue   Joint Distributions II    7.4-7.7
-  					 
-  19   Oct 20   Thu   Transformations I         8.1-8.3; 8.8             **Quiz 7**; [R code](lectures/L-08.R)
-  
-  20   Oct 25   Tue   Transformations II        8.4-8.6; 8.8
-                                                 
-       Oct 27   Thu   <font color="orange">           
-                       *No Class: Fall Break* 
-                       </font>                                  
-  	  
-  21   Nov 1    Tue   Transformations III       8.1-8.8
-  
-  22   Nov 3    Thu   Review                    5, 6, 7, 8               **Quiz 8**
-
-  23   Nov 8    Tue   Review                    5, 6, 7, 8                         
-
-  24   Nov 10   Thu   **Exam 2** (HW 5-8)  
-------------------------------------------------------------------------------------------------
-
-#### Part 3  
-  
-------------------------------------------------------------------------------------------------
-Class Date      Day  Topic                      Reading (Pre-Class)     Notes from class
------ -------- ----- -------------------------- ----------------------- ----------------------- 
-  25   Nov 15   Tue  ~~Conditional Expectation I  9.1-9.3; 9.8
-                     ~~ Exam Review 
-
-  26   Nov 17   Thu  Conditional Expectation II 9.4-9.8 
-
-  27   Nov 22   Tue  Inequalities               10.1, 10.4, 10.6         **Quiz 9**
-                     
-       Nov 24   Thu   <font color="orange">                               
-                     *No Class: Thanksgiving
-                     Break* 
-                     </font>                                                  
-  
-  28   Nov 29   Tue  Limit Theorems             10.2-10.3, 10.5-10.6
-  
-  29   Dec 1    Thu  Review                                              **Quiz 10**
-  
-       Dec 8    Thu  **Final Exam (8am -                                 [Distributions](other/ST554_distributions.pdf); [Final Handout](other/ST554_final_handout.pdf)
-                     10:30am)**
-------------------------------------------------------------------------------------------------
-
---->
 
 

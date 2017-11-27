@@ -45,8 +45,8 @@
 ### [Homework \#8](homework/hw8.pdf)
 > Due: Tues Nov 14
 
-### Homework \#9  
-<!-- ### [Homework \#9](homework/hw9.pdf) -->
+<!-- ### Homework \#9 -->  
+### [Homework \#9](homework/hw9.pdf)
 > Due: Tues Dec 5  
 
 
